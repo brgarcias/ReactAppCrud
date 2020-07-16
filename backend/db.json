@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Amanda Roque",
+      "email": "amanda.roque@hotmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Bruno Garcia",
+      "email": "bruno.garcia@hotmail.com"
+    },
+    {
+      "name": "José Garcia",
+      "email": "jose.garcia@hotmail.com",
+      "id": 3
+    },
+    {
+      "name": "Malu Garcia",
+      "email": "malu.garcia@hotmail.com",
+      "id": 4
+    },
+    {
+      "name": "Malcom Garcia",
+      "email": "malcom.garcia@hotmail.com",
+      "id": 4
+    }
+  ]
+}
