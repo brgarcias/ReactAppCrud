@@ -1,2 +1,0 @@
-# ReactAppCrud
-Crud User Registration
