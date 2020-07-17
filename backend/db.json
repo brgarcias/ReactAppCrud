@@ -2,8 +2,8 @@
   "users": [
     {
       "id": 1,
-      "name": "Amanda Roque",
-      "email": "amanda.roque@hotmail.com"
+      "name": "Amanda Garcia",
+      "email": "amanda.garcia@hotmail.com"
     },
     {
       "id": 2,
@@ -23,7 +23,7 @@
     {
       "name": "Malcom Garcia",
       "email": "malcom.garcia@hotmail.com",
-      "id": 4
+      "id": 5
     }
   ]
 }
